@@ -1,0 +1,6 @@
+Magic Mask.app/Contents/MacOS/*
+Magic Mask.app/Contents/libs
+Magic Mask.app/Contents/_CodeSignature
+frontend
+Magic Mask.zip
+.DS_Store

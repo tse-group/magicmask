@@ -1,0 +1,15 @@
+mediapipe/provisioning_profile.mobileprovision
+bazel-bin
+bazel-genfiles
+bazel-mediapipe-ioss
+bazel-out
+bazel-testlogs
+mediapipe/MediaPipe.xcodeproj
+mediapipe/MediaPipe.tulsiproj/*.tulsiconf-user
+OWN_facehand_tracking*
+
+bazel-mediapipe
+bazel-mimosa
+
+.DS_Store
+*/.DS_Store
