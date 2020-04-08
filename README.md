@@ -4,7 +4,7 @@ A behavior-changing application to help stop the spread of viruses -- https://ma
 
 ## Build
 
-First, build the mediapipe backend
+First, install dependencies by following [this document](https://github.com/tse-group/magicmask/blob/master/mediapipe/docs/install.md) and then build the mediapipe backend
 
 ```bash
 bazel build \                                   
@@ -14,7 +14,7 @@ bazel build \
         mediapipe/examples/desktop/OWN_facehand_tracking:OWN_facehand_tracking --sandbox_debug --verbose_failures
 ```
 
-Then build the frontend and package the binary
+Then build the frontend and package the binary.
 
 ```bash
 cd frontend
